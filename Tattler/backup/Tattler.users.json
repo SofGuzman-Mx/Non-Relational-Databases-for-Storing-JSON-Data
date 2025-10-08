@@ -1,0 +1,162 @@
+[
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2c3" },
+    "username": "taco_lover_88",
+    "email": "taco_lover_88@example.com",
+    "password": "hashed_password_123",
+    "preferences": ["Tacos", "Street food"],
+    "createdAt": { "$date": "2025-10-28T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2c4" },
+    "username": "ana_g",
+    "email": "ana_g@example.com",
+    "password": "hashed_password_456",
+    "preferences": ["Tacos", "Mexican"],
+    "createdAt": { "$date": "2025-10-28T12:01:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2c5" },
+    "username": "gourmet_cdmx",
+    "email": "gourmet_cdmx@example.com",
+    "password": "hashed_password_789",
+    "preferences": ["Modern Mexican", "Fine Dining"],
+    "createdAt": { "$date": "2025-10-28T12:02:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2c6" },
+    "username": "carlos_perez",
+    "email": "carlos_perez@example.com",
+    "password": "hashed_password_abc",
+    "preferences": ["Modern Mexican", "Tradicional Mexican"],
+    "createdAt": { "$date": "2025-10-28T12:03:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2c7" },
+    "username": "sabor_oaxaqueño",
+    "email": "sabor_oaxaqueño@example.com",
+    "password": "hashed_password_def",
+    "preferences": ["Tradicional Mexican", "Oaxacan"],
+    "createdAt": { "$date": "2025-10-28T12:04:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2c8" },
+    "username": "sofia_r",
+    "email": "sofia_r@example.com",
+    "password": "hashed_password_ghi",
+    "preferences": ["Tradicional Mexican", "Mexican"],
+    "createdAt": { "$date": "2025-10-28T12:05:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2c9" },
+    "username": "viajero_foodie",
+    "email": "viajero_foodie@example.com",
+    "password": "hashed_password_jkl",
+    "preferences": ["Tradicional Mexican", "Local Food"],
+    "createdAt": { "$date": "2025-10-28T12:06:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2ca" },
+    "username": "elena_m",
+    "email": "elena_m@example.com",
+    "password": "hashed_password_mno",
+    "preferences": ["Tradicional Mexican", "Grill"],
+    "createdAt": { "$date": "2025-10-28T12:07:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2cb" },
+    "username": "mar_y_sol",
+    "email": "mar_y_sol@example.com",
+    "password": "hashed_password_pqr",
+    "preferences": ["Modern Mexican", "Seafood"],
+    "createdAt": { "$date": "2025-10-28T12:08:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2cc" },
+    "username": "david_c",
+    "email": "david_c@example.com",
+    "password": "hashed_password_stu",
+    "preferences": ["Modern Mexican", "Oaxacan"],
+    "createdAt": { "$date": "2025-10-28T12:09:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2cd" },
+    "username": "oaxaca_food",
+    "email": "oaxaca_food@example.com",
+    "password": "hashed_password_vwx",
+    "preferences": ["Modern Mexican", "Fine Dining"],
+    "createdAt": { "$date": "2025-10-28T12:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2ce" },
+    "username": "fernanda_ochoa",
+    "email": "fernanda_ochoa@example.com",
+    "password": "hashed_password_yz0",
+    "preferences": ["Modern Mexican", "Tradicional Mexican"],
+    "createdAt": { "$date": "2025-10-28T12:11:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2cf" },
+    "username": "vida_sana",
+    "email": "vida_sana@example.com",
+    "password": "hashed_password_123",
+    "preferences": ["Organic food", "Vegan"],
+    "createdAt": { "$date": "2025-10-28T12:12:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2d0" },
+    "username": "juan_reyes",
+    "email": "juan_reyes@example.com",
+    "password": "hashed_password_456",
+    "preferences": ["Organic food", "Healthy"],
+    "createdAt": { "$date": "2025-10-28T12:13:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2d1" },
+    "username": "playa_fan",
+    "email": "playa_fan@example.com",
+    "password": "hashed_password_789",
+    "preferences": ["Seafood", "Mexican"],
+    "createdAt": { "$date": "2025-10-28T12:14:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2d2" },
+    "username": "laura_v",
+    "email": "laura_v@example.com",
+    "password": "hashed_password_abc",
+    "preferences": ["Seafood", "Grill"],
+    "createdAt": { "$date": "2025-10-28T12:15:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2d3" },
+    "username": "regio_food",
+    "email": "regio_food@example.com",
+    "password": "hashed_password_def",
+    "preferences": ["Street food", "Tacos"],
+    "createdAt": { "$date": "2025-10-28T12:16:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2d4" },
+    "username": "mario_garza",
+    "email": "mario_garza@example.com",
+    "password": "hashed_password_ghi",
+    "preferences": ["Street food", "Grill"],
+    "createdAt": { "$date": "2025-10-28T12:17:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2d5" },
+    "username": "pizza_fan_mty",
+    "email": "pizza_fan_mty@example.com",
+    "password": "hashed_password_jkl",
+    "preferences": ["American food", "Italian"],
+    "createdAt": { "$date": "2025-10-28T12:18:00Z" }
+  },
+  {
+    "_id": { "$oid": "68e6a1b1c1d8f5b8e9a1b2d6" },
+    "username": "valeria_s",
+    "email": "valeria_s@example.com",
+    "password": "hashed_password_mno",
+    "preferences": ["American food", "Burgers"],
+    "createdAt": { "$date": "2025-10-28T12:19:00Z" }
+  }
+]

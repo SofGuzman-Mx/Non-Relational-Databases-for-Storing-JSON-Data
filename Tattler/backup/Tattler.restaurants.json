@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "68e556b9af86b20d34fdb6c9"
+  },
+  "name": "El Califa de León",
+  "address": "Av. Ribera de San Cosme 56, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX",
+  "rating": 4.5,
+  "Reviews": [
+    {
+      "id": {
+        "$oid": "68e557b5af86b20d34fdb6cf"
+      },
+      "comment": "Lo mejor de lo mejor",
+      "rate": 5
+    },
+    {}
+  ],
+  "cuisine": "Tacos"
+},
+{
+  "_id": {
+    "$oid": "68e55738af86b20d34fdb6ca"
+  },
+  "name": "Pujol",
+  "address": "Tennyson 133, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+  "rating": 4.8,
+  "reviews": [],
+  "cuisine": "Modern Mexican"
+},
+{
+  "_id": {
+    "$oid": "68e591c0af86b20d34fdb6e5"
+  },
+  "name": "La casa del tío güero",
+  "address": "C. de Manuel García Vigil 715, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax.",
+  "rating": 4.5,
+  "Reviews": [
+    {
+      "id": {
+        "$oid": "68e557b5af86b20d34fdb6cf"
+      },
+      "comment": "Lo mejor de lo mejor",
+      "rate": 5
+    },
+    {}
+  ],
+  "cuisine": "Tradicional Mexican"
+},
+{
+  "_id": {
+    "$oid": "68e59257af86b20d34fdb6e6"
+  },
+  "name": "Alfolí",
+  "address": "Av Belisario Domínguez 913, Reforma, 68150 Oaxaca de Juárez",
+  "rating": 4.2,
+  "Reviews": [
+    {
+      "id": {
+        "$oid": "68e557b5af86b20d34fdb6cf"
+      },
+      "comment": "Lo mejor de lo mejor",
+      "rate": 5
+    },
+    {}
+  ],
+  "cuisine": "Tradicional Mexican"
+},
+{
+  "_id": {
+    "$oid": "68e59372af86b20d34fdb6e7"
+  },
+  "name": "Vaca Marina",
+  "address": "Ignacio Allende 109, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez",
+  "rating": 4,
+  "Reviews": [
+    {
+      "id": {
+        "$oid": "68e557b5af86b20d34fdb6cf"
+      },
+      "comment": "Lo mejor de lo mejor",
+      "rate": 5
+    },
+    {}
+  ],
+  "cuisine": "Modern Mexican"
+},
+{
+  "_id": {
+    "$oid": "68e593f7af86b20d34fdb6e8"
+  },
+  "name": "Casa Oaxaca",
+  "address": "Constitución 104-A, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez",
+  "rating": 4.5,
+  "Reviews": [
+    {
+      "id": {
+        "$oid": "68e557b5af86b20d34fdb6cf"
+      },
+      "comment": "Lo mejor de lo mejor",
+      "rate": 5
+    },
+    {}
+  ],
+  "cuisine": "Modern Mexican"
+},
+{
+  "_id": {
+    "$oid": "68e5941daf86b20d34fdb6e9"
+  },
+  "name": "314 Punto Natural Reforma",
+  "address": "C. Pensamientos 314, Reforma, 68050 Oaxaca de Juárez, Oax",
+  "rating": 4.6,
+  "Reviews": [
+    {
+      "id": {
+        "$oid": "68e557b5af86b20d34fdb6cf"
+      },
+      "comment": "Lo mejor de lo mejor",
+      "rate": 5
+    },
+    {}
+  ],
+  "cuisine": "Organic food"
+},
+{
+  "_id": {
+    "$oid": "68e5945faf86b20d34fdb6ea"
+  },
+  "name": "El Camaron borracho",
+  "address": "Calle Bahía maguey manzana 8 lote 121 sector, Bahías de huatulco, T, 70989 Crucecita",
+  "rating": 4.4,
+  "Reviews": [
+    {
+      "id": {
+        "$oid": "68e557b5af86b20d34fdb6cf"
+      },
+      "comment": "Lo mejor de lo mejor",
+      "rate": 5
+    },
+    {}
+  ],
+  "cuisine": "seafood"
+},
+{
+  "_id": {
+    "$oid": "68e59762af86b20d34fdb6eb"
+  },
+  "name": "Tacos Piedra 1",
+  "address": "Lirios 1830, Cerro de La Silla, 64810 Monterrey, N.L.",
+  "rating": 4.6,
+  "Reviews": [
+    {
+      "id": {
+        "$oid": "68e557b5af86b20d34fdb6cf"
+      },
+      "comment": "Lo mejor de lo mejor",
+      "rate": 5
+    },
+    {}
+  ],
+  "cuisine": "Street food"
+},
+{
+  "_id": {
+    "$oid": "68e5976caf86b20d34fdb6ec"
+  },
+  "name": "Boston's Pizza",
+  "address": "Av Insurgentes 2500, Vista Hermosa, 64620 Monterrey, N.L.",
+  "rating": 4.5,
+  "Reviews": [
+    {
+      "id": {
+        "$oid": "68e557b5af86b20d34fdb6cf"
+      },
+      "comment": "Lo mejor de lo mejor",
+      "rate": 5
+    },
+    {}
+  ],
+  "cuisine": "American food"
+}]

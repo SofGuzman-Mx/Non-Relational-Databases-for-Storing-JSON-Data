@@ -1,0 +1,11 @@
+_id,name,address,rating,Reviews[0].id,Reviews[0].comment,Reviews[0].rate,cuisine
+68e556b9af86b20d34fdb6c9,El Califa de León,"Av. Ribera de San Cosme 56, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX",4.5,68e557b5af86b20d34fdb6cf,Lo mejor de lo mejor,5,Tacos
+68e55738af86b20d34fdb6ca,Pujol,"Tennyson 133, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",4.8,,,,Modern Mexican
+68e591c0af86b20d34fdb6e5,La casa del tío güero,"C. de Manuel García Vigil 715, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez, Oax.",4.5,68e557b5af86b20d34fdb6cf,Lo mejor de lo mejor,5,Tradicional Mexican
+68e59257af86b20d34fdb6e6,Alfolí,"Av Belisario Domínguez 913, Reforma, 68150 Oaxaca de Juárez",4.2,68e557b5af86b20d34fdb6cf,Lo mejor de lo mejor,5,Tradicional Mexican
+68e59372af86b20d34fdb6e7,Vaca Marina,"Ignacio Allende 109, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez",4,68e557b5af86b20d34fdb6cf,Lo mejor de lo mejor,5,Modern Mexican
+68e593f7af86b20d34fdb6e8,Casa Oaxaca,"Constitución 104-A, RUTA INDEPENDENCIA, Centro, 68000 Oaxaca de Juárez",4.5,68e557b5af86b20d34fdb6cf,Lo mejor de lo mejor,5,Modern Mexican
+68e5941daf86b20d34fdb6e9,314 Punto Natural Reforma,"C. Pensamientos 314, Reforma, 68050 Oaxaca de Juárez, Oax",4.6,68e557b5af86b20d34fdb6cf,Lo mejor de lo mejor,5,Organic food
+68e5945faf86b20d34fdb6ea,El Camaron borracho,"Calle Bahía maguey manzana 8 lote 121 sector, Bahías de huatulco, T, 70989 Crucecita",4.4,68e557b5af86b20d34fdb6cf,Lo mejor de lo mejor,5,seafood
+68e59762af86b20d34fdb6eb,Tacos Piedra 1,"Lirios 1830, Cerro de La Silla, 64810 Monterrey, N.L.",4.6,68e557b5af86b20d34fdb6cf,Lo mejor de lo mejor,5,Street food
+68e5976caf86b20d34fdb6ec,Boston's Pizza,"Av Insurgentes 2500, Vista Hermosa, 64620 Monterrey, N.L.",4.5,68e557b5af86b20d34fdb6cf,Lo mejor de lo mejor,5,American food
