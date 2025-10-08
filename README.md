@@ -56,30 +56,12 @@ mongorestore --uri="mongodb://localhost:27017" --db tattler_db db_backup/tattler
 This will create the tattler_db and restore the restaurants and users collections with their respective indexes.
 -----------------------
 3. Repository Structure
-tattler-db/
-├── .gitignore
-├── README.md
-├── VERSIONING.md
-├── package.json
-├── data/
-│   ├── restaurants.csv
-│   └── users.csv
-├── db_backup/
-│   └── tattler_db/
-│       ├── restaurants.bson
-│       └── users.bson
-├── images/
-│   └── mongodb_collections.png
-└── scripts/
-    ├── import-restaurants.js
-    └── import-users.js
 
 data/: Contains the raw data files in CSV format.
 
-db_backup/: Contains the database backup files.
+backup/: Contains the database backup files.
 
-images/: Contains screenshots of the database structure.
+Technical Report/: Contains screenshots of the database structure.
 
 scripts/: Contains Node.js scripts for various database operations like data importation.
 
-VERSIONING.md: Explains the project's versioning guidelines.
