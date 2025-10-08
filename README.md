@@ -6,19 +6,13 @@ This repository contains the initial database setup, data import scripts, and do
 
 Major Version: 1.0.0
 ------------
-2. Installation and Usage
-Prerequisites
-Node.js (v18.x or later recommended)
+2. Installation and Usage Prerequisites
+-Node.js (v18.x or later recommended)
+-npm (v9.x or later recommended)
+-MongoDB (v6.x or later recommended, either local or via Atlas)
+-Git
 
-npm (v9.x or later recommended)
-
-MongoDB (v6.x or later recommended, either local or via Atlas)
-
-Git
-
-Installation
-Clone the repository:
-
+Clone the repository in Git:
 git clone <your-repository-url>
 cd tattler-db
 
@@ -31,7 +25,7 @@ Configure Environment:
 Ensure your MongoDB server is running. Create a .env file in the root directory and add your MongoDB connection string:
 
 MONGO_URI="mongodb://localhost:27017/tattler_db"
-
+_________________
 Database Setup & Data Import
 You can populate the database in two ways:
 
