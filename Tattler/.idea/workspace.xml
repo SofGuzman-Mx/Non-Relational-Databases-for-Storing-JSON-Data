@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c87a59ba-9a69-4b7e-851f-dfb63dc5fdf9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Sprint 2/Backlog_3350.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint 2/Quote Sprint 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint 2/Roadmap_3350.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tattler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/Tattler.restaurants.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/Tattler.restaurants.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/Tattler.test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/Tattler.users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compass-connections.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/connection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/import-users.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33mmamMS9I61lWWemIXp9ZRnQO7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sofi0/Downloads/TechnoReady-In Mexico/4. Non-Relational Databases for Storing JSON Data/Tattler&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sofi0\Downloads\TechnoReady-In Mexico\4. Non-Relational Databases for Storing JSON Data\Tattler" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c87a59ba-9a69-4b7e-851f-dfb63dc5fdf9" name="Changes" comment="" />
+      <created>1759930687716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759930687716</updated>
+    </task>
+    <servers />
+  </component>
+</project>

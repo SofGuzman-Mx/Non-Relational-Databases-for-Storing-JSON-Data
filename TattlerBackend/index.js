@@ -3,7 +3,7 @@
 import express, {json} from 'express'
 import { mongodbconnection } from './db/connection.js';
 import routerMain from './routers/index.js';
-import dotenv from 'dotenv'
+import dotenv from 'dotenv/lib/main.js'
 dotenv.config()
 
 //puerto

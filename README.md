@@ -16,6 +16,8 @@ _____
 **Install dependencies**
 
 The import scripts require the mongodb and csv-parser packages
+
+![independencies](C:\Users\sofi0\Downloads\TechnoReady-In Mexico\4. Non-Relational Databases for Storing JSON Data\images)
 ____
 
 npm install mongodb csv-parser
@@ -45,7 +47,7 @@ These scripts will connect to your MongoDB instance, create the tattler_db datab
 B) Restoring from Backup:
 
 Use the mongorestore command-line tool to restore the database from the provided backup files located in the db_backup/ directory.
-
+____
 mongorestore --uri="mongodb://localhost:27017" --db tattler_db db_backup/tattler_db
 
 This will create the tattler_db and restore the restaurants and users collections with their respective indexes.

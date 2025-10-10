@@ -4,7 +4,7 @@ import 'dotenv/config'
 
 export function mongodbconnection(){
     mongoose.connect("mongodb://localhost:27017/tattler_db").then(() => {
-        console.log("yeoiiiiiiiiiiiiiiiiiiii");
+        console.log("Mongo DB correctly connected");
     })
     .catch(err => {
         console.log(err)
