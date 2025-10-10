@@ -1,25 +1,26 @@
-**Tattler: Personalized Restaurant Directory**
-1. Project Description
-Tattler is a modern web application designed to be a nationwide restaurant directory in Mexico. This project aims to transform the existing platform into a dynamic and personalized experience for users. By leveraging a non-relational database (MongoDB) and a REST API (Express.js), Tattler will provide up-to-date information, personalized recommendations, and allow users to interact by adding comments, ratings, and new restaurants. This will address the recent drop in user traffic by significantly improving the user experience and ensuring the directory's content remains current and relevant.
-
-This repository contains the initial database setup, data import scripts, and documentation for the Tattler application backend.
-
-Major Version: 1.0.0
+Major Version: 1.1.0
 ------------
-2. Installation and Usage Prerequisites
--Node.js (v18.x or later recommended)
--npm (v9.x or later recommended)
--MongoDB (v6.x or later recommended, either local or via Atlas)
--Git
+1. Installation and Usage Prerequisites
 
-Clone the repository in Git:
-git clone <your-repository-url>
-cd tattler-db
+    -Node.js (v18.x or later recommended)<br/>
+    -npm (v9.x or later recommended)<br/>
+    -MongoDB (v6.x or later recommended, either local or via Atlas)<br/>
+    -Git
 
-Install dependencies:
-The import scripts require the mongodb and csv-parser packages.
+2. Clone the repository in Git:
+_____
+    git clone <git@github.com:SofGuzman-Mx/Non-Relational-Databases-for-Storing-JSON-Data.git>
+_____    
+    cd tattler-db
+_____
+**Install dependencies**
+
+The import scripts require the mongodb and csv-parser packages
+____
 
 npm install mongodb csv-parser
+____
+<br/>
 
 Configure Environment:
 Ensure your MongoDB server is running. Create a .env file in the root directory and add your MongoDB connection string:
