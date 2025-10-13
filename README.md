@@ -12,6 +12,12 @@
 - Git
 - Postman or Insomnia for API testing
 
+**Sustainability (Long-Term Maintenance):** Repository with version control practices. 
+
+**Scalability (Growthability):** Solid foundation for scalability by using indexes in MongoDB, ensuring fast queries and Studio 3T optimizes a query, replacing an inefficient Collection Scan with a fast Index Scan.
+
+**Quality:** ✅ Testing used with the GET, POST, PUT, and DELETE methods to the new search and sort features with screenshots in Postman as evidence of your quality assurance (QA) process.
+
 ## Sprint 1
 
 Data base Setup in **Mongo DB Compass**
@@ -219,3 +225,34 @@ GET http://localhost:8888/api/restaurants?sort=name
 ````
 Expected Result: The complete list of restaurants, sorted alphabetically by name.
 ![independencies](./images/GETsort=name.png)
+
+ Studio 3T isn't just for viewing data; it's for demonstrating that you can manage a database with professional tools, perform complex analyses, and optimize queries, which is directly linked to scalability and maintainability (sustainability).
+
+## **Studio 3T was used to perform complex data analysis and verify the integrity of collections, as shown in the following image:**
+
+## 1. Connect to your Local Database
+First, you need to tell Studio 3T where your MongoDB database is running.
+````
+cd TattlerBackend
+````
+````
+node index.js
+````
+
+Step 1. Install Studio 3T
+![independencies](./images/InstallStudio3T.png)
+
+Step 2. Log In
+
+## 2. Create the Query with the Visual Query Builder
+Now that you're connected, let's build the specific query.
+
+Step 2. Open the collection<br/>
+    2.1 Use the Query Builder<br/>
+    ![independencies](./images/Studio3.1.jpeg)<br/>
+    2.2 Drag the Field `cuisine`<br/>
+    ![independencies](./images/Studio3.4.png)
+    2.3 Set the Value `Tacos`<br/>
+![independencies](./images/Studio3.2.png)
+    2.4 Results (I don't have any Tacos with rating 2) that's why is 0 documents selected 
+![independencies](./images/Studio3.3.png)
