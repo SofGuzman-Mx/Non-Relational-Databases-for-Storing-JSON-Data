@@ -1,23 +1,20 @@
+import express from 'express';
+import 'dotenv/config'; 
+import connectDB from './config/db.js';
+import mainRouter from './routes/index.js';
 
-//Import express
-import express, {json} from 'express'
-import { mongodbconnection } from './db/connection.js';
-import routerMain from './routers/index.js';
-import dotenv from 'dotenv/lib/main.js'
-dotenv.config()
+connectDB();
 
-//puerto
-const PORT = process.env.PORT
-const app = express()
-app.use(json())
+const app = express();
 
-//inicio de ruta raíz
-app.use('/api/v1', routerMain)
+// Middleware para parsear JSON
+app.use(express.json());
 
-// mongodbconnection()
+// Rutas principales de la API
+app.use('/api', mainRouter);
 
-//abrir nuestro servidor (call back)
+const PORT = process.env.PORT || 3000;
+
 app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`)
+    console.log(`Server running on port ${PORT}`);
 });
-
